@@ -1,0 +1,9 @@
+{
+  "name": "poll-kaitori-bots",
+  "version": "1.0.0",
+  "description": "Run poll bot and kaitori bot",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  }
+}
