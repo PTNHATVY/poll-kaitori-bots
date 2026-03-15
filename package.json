@@ -6,19 +6,8 @@
   "scripts": {
     "start": "node start.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PTNHATVY/poll-kaitori-bots.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/PTNHATVY/poll-kaitori-bots/issues"
-  },
-  "homepage": "https://github.com/PTNHATVY/poll-kaitori-bots#readme",
   "dependencies": {
-    "discord.js": "^14.25.1"
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.0"
   }
 }
