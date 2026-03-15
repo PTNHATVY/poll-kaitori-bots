@@ -1,2 +1,2 @@
-import "./Poll-bot/index.js";
+import "./poll-bot/index.js";
 import "./kaitori-bot/index.js";
