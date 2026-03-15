@@ -1,7 +1,8 @@
 import { Client, GatewayIntentBits, SlashCommandBuilder, EmbedBuilder } from "discord.js";
 import { chromium } from "playwright";
 import fs from "fs";
-import "dotenv/config";
+import dotenv from "dotenv";
+dotenv.config();
 
 /* ================= STORAGE ================= */
 const DATA_FILE = "./items.json";
