@@ -6,8 +6,10 @@
   "scripts": {
     "start": "node start.js"
   },
+  "type": "module",
   "dependencies": {
     "discord.js": "^14.14.1",
-    "axios": "^1.6.0"
+    "playwright": "^1.42.0",
+    "dotenv": "^16.4.0"
   }
 }
