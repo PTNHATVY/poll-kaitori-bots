@@ -1,12 +1,11 @@
 {
   "name": "poll-kaitori-bots",
   "version": "1.0.0",
-  "description": "Run poll bot and kaitori bot",
+  "type": "module",
   "main": "start.js",
   "scripts": {
     "start": "node start.js"
   },
-  "type": "module",
   "dependencies": {
     "discord.js": "^14.14.1",
     "playwright": "^1.42.0",
